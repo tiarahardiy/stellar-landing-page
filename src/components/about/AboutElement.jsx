@@ -11,7 +11,7 @@ export const LayoutAbout = styled.div`
   display: flex;
   flex-direction: row;
   align-items: center;
-  padding: 40px 80px;
+  padding: 80px 80px 40px 80px;
   margin-top: 24px;
   margin-bottom: 40px;
   background-color: #fafafa;

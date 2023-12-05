@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import DetailSection from "../components/career/DetailSection";
-import SectionPremium from "../components/career/SectionPremium";
 import SendCV from "../components/career/SendCV";
 import Footer from "../components/footer/Footer";
 import HeaderCareer from "../components/header/HeaderCareer";

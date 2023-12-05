@@ -124,6 +124,7 @@ export const ButtonApplyBlack = styled.a`
   color: #ffffff;
   box-shadow: 10px 24px 54px rgba(15, 13, 35, 0.04);
   text-decoration: none;
+  cursor: pointer;
 
   :hover {
     background: #ffffff;

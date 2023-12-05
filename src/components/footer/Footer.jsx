@@ -41,7 +41,7 @@ const Footer = () => {
               </TextRight>
               <TextRight>
                 Opening hours : <br></br>
-                Mon - Fri : 06.00 - 22.00 | Sat : 06.00 - 12.00
+                Mon - Sat : 06.00 - 21.00 | Sun : Closed
               </TextRight>
             </div>
             <LayoutMobile>
@@ -144,8 +144,8 @@ const Footer = () => {
                 </LayoutIcons>
                 <TextP>
                   Surabaya/Malang: 0852 7755 4141 <br></br>
-                  Jember/Denpasar/Kediri: 081 1147 4141<br></br>
-                  Jakarta: 082 2776 64141
+                  Jember/Denpasar/Kediri: 0811 1474 141<br></br>
+                  Jakarta: 0822 7766 4141
                 </TextP>
                 <LayoutIcons>
                   <a
@@ -170,7 +170,7 @@ const Footer = () => {
           </ContentFooter>
           <BorderLine></BorderLine>
           <FooterEnd>
-            <TextCopyright>Copyright 2022. All Right Reserved</TextCopyright>
+            <TextCopyright>Copyright 2024. All Right Reserved</TextCopyright>
             <div className="d-flex ">
               <TextCopyrightLink to="/privacy-policy">
                 Privacy Policy
