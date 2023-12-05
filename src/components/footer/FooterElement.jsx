@@ -90,7 +90,7 @@ export const TitleFooter = styled.h1`
   text-align: start;
 
   @media screen and (max-width: 768px) {
-    text-align: center;
+    text-align: start;
   }
 `;
 

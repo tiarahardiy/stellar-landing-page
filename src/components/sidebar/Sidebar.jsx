@@ -22,7 +22,7 @@ const Sidebar = ({ isOpen, toggle }) => {
           <SidebarLink to="/success-story">Success Story</SidebarLink>
           <SidebarLink to="/privilige">Privilige</SidebarLink>
           <SidebarLink to="/career">Career</SidebarLink>
-          <SidebarLink to="/merchant">Merchant</SidebarLink>
+          {/* <SidebarLink to="/merchant">Merchant</SidebarLink> */}
         </SidebarMenu>
       </SidebarWrapper>
     </SidebarContainer>

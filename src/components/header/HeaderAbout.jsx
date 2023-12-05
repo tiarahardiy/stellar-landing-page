@@ -3,7 +3,6 @@ import {
   HomeLogo,
   NavbarContainer,
   SignIn,
-  TextLogo,
   TextNav,
   MobileIcon,
   TextNavActive,
